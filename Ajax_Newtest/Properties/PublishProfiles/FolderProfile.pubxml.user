@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>False</_NewBackgroundProfile>
+    <_PublishTargetUrl>C:\Users\Administrator\Desktop\web_test</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="action.ashx">
+      <publishTime>11/15/2017 11:21:57</publishTime>
+    </File>
+    <File Include="Admin.aspx">
+      <publishTime>10/30/2017 21:45:18</publishTime>
+    </File>
+    <File Include="Ajax-test2.aspx">
+      <publishTime>10/19/2017 17:30:09</publishTime>
+    </File>
+    <File Include="AJaxStyle.aspx">
+      <publishTime>10/17/2017 14:59:16</publishTime>
+    </File>
+    <File Include="bin/Ajax_Newtest.dll">
+      <publishTime>12/11/2017 16:22:32</publishTime>
+    </File>
+    <File Include="bin/Ajax_Newtest.dll.config">
+      <publishTime>10/25/2017 17:04:31</publishTime>
+    </File>
+    <File Include="bin/Ajax_Newtest.pdb">
+      <publishTime>12/11/2017 16:22:32</publishTime>
+    </File>
+    <File Include="bin/DBUtility.dll">
+      <publishTime>12/11/2017 16:22:29</publishTime>
+    </File>
+    <File Include="bin/DBUtility.pdb">
+      <publishTime>12/11/2017 16:22:29</publishTime>
+    </File>
+    <File Include="bin/GetMealTicketDB.dll">
+      <publishTime>10/25/2017 18:17:13</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/28/2016 14:22:24</publishTime>
+    </File>
+    <File Include="bootstrap-paginator.min.js">
+      <publishTime>07/11/2017 12:37:50</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-theme.css">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-theme.css.map">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap-theme.min.css">
+      <publishTime>08/31/2017 15:23:00</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css">
+      <publishTime>08/31/2017 15:23:00</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.css.map">
+      <publishTime>08/31/2017 15:23:00</publishTime>
+    </File>
+    <File Include="bootstrap/css/bootstrap.min.css">
+      <publishTime>08/31/2017 15:23:00</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="bootstrap/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.js">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="bootstrap/js/bootstrap.min.js">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="bootstrap/js/modal.js">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="bootstrap/js/npm.js">
+      <publishTime>08/31/2017 15:22:59</publishTime>
+    </File>
+    <File Include="Check.js">
+      <publishTime>11/03/2017 10:30:16</publishTime>
+    </File>
+    <File Include="Comment.js">
+      <publishTime>10/30/2017 15:52:34</publishTime>
+    </File>
+    <File Include="common.js">
+      <publishTime>10/25/2017 23:51:24</publishTime>
+    </File>
+    <File Include="Default3.aspx">
+      <publishTime>11/22/2017 16:41:54</publishTime>
+    </File>
+    <File Include="dianzan.aspx">
+      <publishTime>11/15/2017 01:14:17</publishTime>
+    </File>
+    <File Include="fenye.aspx">
+      <publishTime>11/15/2017 15:54:31</publishTime>
+    </File>
+    <File Include="fenYe.js">
+      <publishTime>11/15/2017 15:53:35</publishTime>
+    </File>
+    <File Include="gai.js">
+      <publishTime>12/10/2017 23:59:23</publishTime>
+    </File>
+    <File Include="getdata.ashx">
+      <publishTime>10/25/2017 09:47:21</publishTime>
+    </File>
+    <File Include="Getdata2.ashx">
+      <publishTime>11/03/2017 15:27:27</publishTime>
+    </File>
+    <File Include="getSql.ashx">
+      <publishTime>10/29/2017 10:44:04</publishTime>
+    </File>
+    <File Include="Handler1.ashx">
+      <publishTime>10/19/2017 16:49:24</publishTime>
+    </File>
+    <File Include="index.ashx">
+      <publishTime>10/24/2017 15:44:44</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>10/27/2017 17:27:35</publishTime>
+    </File>
+    <File Include="index2.aspx">
+      <publishTime>12/11/2017 09:53:04</publishTime>
+    </File>
+    <File Include="index3.aspx">
+      <publishTime>11/14/2017 09:44:27</publishTime>
+    </File>
+    <File Include="jquery.min.js">
+      <publishTime>10/27/2017 09:19:48</publishTime>
+    </File>
+    <File Include="listshow.ashx">
+      <publishTime>11/22/2017 12:28:03</publishTime>
+    </File>
+    <File Include="listshow.js">
+      <publishTime>11/22/2017 11:33:11</publishTime>
+    </File>
+    <File Include="MJ_JSComment.js">
+      <publishTime>10/27/2017 11:39:50</publishTime>
+    </File>
+    <File Include="show.ashx">
+      <publishTime>11/30/2017 15:43:11</publishTime>
+    </File>
+    <File Include="test.html">
+      <publishTime>10/25/2017 16:39:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/11/2017 16:22:33</publishTime>
+    </File>
+    <File Include="Yanzheng.aspx">
+      <publishTime>11/07/2017 21:24:06</publishTime>
+    </File>
+    <File Include="YanZheng.js">
+      <publishTime>10/30/2017 12:41:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

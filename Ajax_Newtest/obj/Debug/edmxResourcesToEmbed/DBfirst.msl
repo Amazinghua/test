@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DataStudentsModelStoreContainer" CdmEntityContainer="DataStudentsEntities">
+    <EntitySetMapping Name="Table_test">
+      <EntityTypeMapping TypeName="DataStudentsModel.Table_test">
+        <MappingFragment StoreEntitySet="Table_test">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="year" ColumnName="year" />
+          <ScalarProperty Name="sex" ColumnName="sex" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Table_yan">
+      <EntityTypeMapping TypeName="DataStudentsModel.Table_yan">
+        <MappingFragment StoreEntitySet="Table_yan">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="contend" ColumnName="contend" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="time" ColumnName="time" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserInfo">
+      <EntityTypeMapping TypeName="DataStudentsModel.UserInfo">
+        <MappingFragment StoreEntitySet="UserInfo">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserTset">
+      <EntityTypeMapping TypeName="DataStudentsModel.UserTset">
+        <MappingFragment StoreEntitySet="UserTset">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

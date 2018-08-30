@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Gallery Example</title>
+    <script type="text/javascript">
+        // 扩展API加载完毕后调用onPlusReady回调函数
+        document.addEventListener("plusready", onPlusReady, false);
+        var r = null;
+        // 扩展API加载完毕，现在可以正常调用扩展API
+        function onPlusReady() {
+        }
+        // 保存图片到相册中
+        function savePicture() {
+            plus.gallery.save("img/gmcc.png", function () {
+                alert("保存图片到相册成功");
+            });
+        }
+    </script>
+</head>
+<body>
+    <input type="button" value="Save picture to Gallery" onclick="savePicture();"></input>
+</body>
+</html>

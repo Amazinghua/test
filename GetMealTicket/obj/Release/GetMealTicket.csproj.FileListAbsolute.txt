@@ -1,0 +1,22 @@
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\bin\GetMealTicket.dll.config
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\bin\GetMealTicket.dll
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\bin\GetMealTicket.pdb
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\bin\GetMealTicketDB.dll
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\bin\Newtonsoft.Json.dll
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\bin\DBUtility.dll
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\bin\GetMealTicketDB.pdb
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\bin\DBUtility.pdb
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\obj\Release\GetMealTicket.csprojResolveAssemblyReference.cache
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\obj\Release\GetMealTicket.dll
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\GetMealTicket\obj\Release\GetMealTicket.pdb
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\bin\GetMealTicket.dll.config
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\bin\GetMealTicket.dll
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\bin\GetMealTicket.pdb
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\bin\GetMealTicketDB.dll
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\bin\Newtonsoft.Json.dll
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\bin\DBUtility.dll
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\bin\GetMealTicketDB.pdb
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\bin\DBUtility.pdb
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\obj\Release\GetMealTicket.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\obj\Release\GetMealTicket.dll
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\GetMealTicket\obj\Release\GetMealTicket.pdb

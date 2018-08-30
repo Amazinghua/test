@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Users\Desktop\web测试发布</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/DBUtility.dll">
+      <publishTime>09/07/2017 15:50:49</publishTime>
+    </File>
+    <File Include="bin/GetMealTicket.dll">
+      <publishTime>09/07/2017 15:50:50</publishTime>
+    </File>
+    <File Include="bin/GetMealTicketDB.dll">
+      <publishTime>09/07/2017 15:50:50</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/02/2013 12:10:10</publishTime>
+    </File>
+    <File Include="getdata.ashx">
+      <publishTime>06/25/2017 21:11:59</publishTime>
+    </File>
+    <File Include="img/logo透明.png">
+      <publishTime>02/22/2017 09:30:40</publishTime>
+    </File>
+    <File Include="IndexQrcode.aspx">
+      <publishTime>09/07/2017 10:56:12</publishTime>
+    </File>
+    <File Include="js/bootstrap/css/bootstrap-theme.css">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/css/bootstrap-theme.css.map">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/css/bootstrap-theme.min.css">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/css/bootstrap.css">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/css/bootstrap.css.map">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/css/bootstrap.min.css">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/js/bootstrap.js">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/bootstrap/js/bootstrap.min.js">
+      <publishTime>05/26/2017 00:58:01</publishTime>
+    </File>
+    <File Include="js/bootstrap/js/modal.js">
+      <publishTime>12/24/2015 16:26:26</publishTime>
+    </File>
+    <File Include="js/bootstrap/js/npm.js">
+      <publishTime>12/23/2015 20:41:37</publishTime>
+    </File>
+    <File Include="js/checkCode.js">
+      <publishTime>06/26/2017 23:27:59</publishTime>
+    </File>
+    <File Include="js/commen_js/jquery.cookie.min.js">
+      <publishTime>11/23/2015 12:59:17</publishTime>
+    </File>
+    <File Include="js/commen_js/json2.js">
+      <publishTime>05/03/2015 21:04:38</publishTime>
+    </File>
+    <File Include="js/commen_js/MJ_JSComment.js">
+      <publishTime>06/20/2017 15:14:16</publishTime>
+    </File>
+    <File Include="js/common.js">
+      <publishTime>06/13/2017 23:50:13</publishTime>
+    </File>
+    <File Include="js/html2canvas.js">
+      <publishTime>01/24/2016 04:21:21</publishTime>
+    </File>
+    <File Include="js/jquery-1.9.1.js">
+      <publishTime>08/10/2016 16:23:20</publishTime>
+    </File>
+    <File Include="js/jquery.cookie.js">
+      <publishTime>12/24/2015 16:24:58</publishTime>
+    </File>
+    <File Include="js/jquery.min.js">
+      <publishTime>12/22/2015 11:59:26</publishTime>
+    </File>
+    <File Include="js/jquery.qrcode.min.js">
+      <publishTime>01/12/2016 18:51:26</publishTime>
+    </File>
+    <File Include="js/json2.js">
+      <publishTime>12/22/2015 12:14:53</publishTime>
+    </File>
+    <File Include="js/QRcode.js">
+      <publishTime>09/07/2017 15:32:26</publishTime>
+    </File>
+    <File Include="QRCode.aspx">
+      <publishTime>09/07/2017 15:35:45</publishTime>
+    </File>
+    <File Include="TestWeb.html">
+      <publishTime>07/10/2017 15:57:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/07/2017 15:50:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

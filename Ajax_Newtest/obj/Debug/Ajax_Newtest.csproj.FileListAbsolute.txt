@@ -1,0 +1,47 @@
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\obj\Debug\Ajax_Newtest.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\Ajax_Newtest.dll.config
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\Ajax_Newtest.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\Ajax_Newtest.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\DBUtility.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\DBUtility.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\obj\Debug\Ajax_Newtest.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\obj\Debug\Ajax_Newtest.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\log4net.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\log4net.xml
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\log4net.config
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\zh-Hans\EntityFramework.resources.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\ICSharpCode.SharpZipLib.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\NPOI.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\NPOI.OOXML.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\NPOI.OpenXml4Net.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\NPOI.OpenXmlFormats.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\NPOI.xml
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\LitJSON.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\QRCoder.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\Ajax_Newtest\bin\UnityEngine.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\log4net.config
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\Ajax_Newtest.dll.config
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\Ajax_Newtest.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\Ajax_Newtest.pdb
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\DBUtility.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\EntityFramework.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\ICSharpCode.SharpZipLib.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\log4net.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\NPOI.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\NPOI.OOXML.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\NPOI.OpenXml4Net.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\NPOI.OpenXmlFormats.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\QRCoder.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\UnityEngine.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\DBUtility.pdb
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\EntityFramework.xml
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\log4net.xml
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\NPOI.xml
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\bin\zh-Hans\EntityFramework.resources.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\obj\Debug\Ajax_Newtest.csprojAssemblyReference.cache
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\obj\Debug\Ajax_Newtest.csproj.CoreCompileInputs.cache
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\obj\Debug\Ajax_Newtest.csproj.CopyComplete
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\obj\Debug\Ajax_Newtest.dll
+E:\转移项目\Ajax_Newtest\Ajax_Newtest\obj\Debug\Ajax_Newtest.pdb

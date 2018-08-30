@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\obj\Debug\GetMealTicketDB.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\log4net.config
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\Ajax_Newtest.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\DBUtility.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\log4net.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\Ajax_Newtest.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\Ajax_Newtest.dll.config
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\DBUtility.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\bin\Debug\log4net.xml
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

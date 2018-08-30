@@ -1,0 +1,93 @@
+D:\jiongran_workspace\JoyBirds_workspace\JM10086\掌上营业厅源码\掌上营业厅后台源码\DBUtility\bin\Debug\DBUtility.dll
+D:\jiongran_workspace\JoyBirds_workspace\JM10086\掌上营业厅源码\掌上营业厅后台源码\DBUtility\bin\Debug\DBUtility.pdb
+D:\jiongran_workspace\JoyBirds_workspace\JM10086\掌上营业厅源码\掌上营业厅后台源码\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\jiongran_workspace\JoyBirds_workspace\JM10086\掌上营业厅源码\掌上营业厅后台源码\DBUtility\obj\Debug\DBUtility.dll
+D:\jiongran_workspace\JoyBirds_workspace\JM10086\掌上营业厅源码\掌上营业厅后台源码\DBUtility\obj\Debug\DBUtility.pdb
+D:\JoyBirds_workspace\JM10086\掌上营业厅源码\掌厅源码\掌厅后台\DBUtility\bin\Debug\DBUtility.dll
+D:\JoyBirds_workspace\JM10086\掌上营业厅源码\掌厅源码\掌厅后台\DBUtility\bin\Debug\DBUtility.pdb
+D:\JoyBirds_workspace\JM10086\掌上营业厅源码\掌厅源码\掌厅后台\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\JoyBirds_workspace\JM10086\掌上营业厅源码\掌厅源码\掌厅后台\DBUtility\obj\Debug\DBUtility.dll
+D:\JoyBirds_workspace\JM10086\掌上营业厅源码\掌厅源码\掌厅后台\DBUtility\obj\Debug\DBUtility.pdb
+E:\xiangmulianxi\总展厅项目\展厅后台\掌厅后台\DBUtility\bin\Debug\DBUtility.dll
+E:\xiangmulianxi\总展厅项目\展厅后台\掌厅后台\DBUtility\bin\Debug\DBUtility.pdb
+E:\xiangmulianxi\总展厅项目\展厅后台\掌厅后台\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\xiangmulianxi\总展厅项目\展厅后台\掌厅后台\DBUtility\obj\Debug\DBUtility.dll
+E:\xiangmulianxi\总展厅项目\展厅后台\掌厅后台\DBUtility\obj\Debug\DBUtility.pdb
+E:\1_ji_qiao\展厅项目\掌厅后台\DBUtility\bin\Debug\DBUtility.dll
+E:\1_ji_qiao\展厅项目\掌厅后台\DBUtility\bin\Debug\DBUtility.pdb
+E:\1_ji_qiao\展厅项目\掌厅后台\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\1_ji_qiao\展厅项目\掌厅后台\DBUtility\obj\Debug\DBUtility.dll
+E:\1_ji_qiao\展厅项目\掌厅后台\DBUtility\obj\Debug\DBUtility.pdb
+E:\1_ji_qiao\zhanting_xiangmu\掌厅后台\DBUtility\bin\Debug\DBUtility.dll
+E:\1_ji_qiao\zhanting_xiangmu\掌厅后台\DBUtility\bin\Debug\DBUtility.pdb
+E:\1_ji_qiao\zhanting_xiangmu\掌厅后台\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+E:\1_ji_qiao\zhanting_xiangmu\掌厅后台\DBUtility\obj\Debug\DBUtility.dll
+E:\1_ji_qiao\zhanting_xiangmu\掌厅后台\DBUtility\obj\Debug\DBUtility.pdb
+D:\JoyBirds_workspace\update_3change\project\changecheck\DBUtility\bin\Debug\DBUtility.dll
+D:\JoyBirds_workspace\update_3change\project\changecheck\DBUtility\bin\Debug\DBUtility.pdb
+D:\JoyBirds_workspace\update_3change\project\changecheck\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\JoyBirds_workspace\update_3change\project\changecheck\DBUtility\obj\Debug\DBUtility.dll
+D:\JoyBirds_workspace\update_3change\project\changecheck\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\zml\Desktop\changecheck_v1.0\changecheck\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\zml\Desktop\changecheck_v1.0\changecheck\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\zml\Desktop\changecheck_v1.0\changecheck\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\zml\Desktop\changecheck_v1.0\changecheck\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\zml\Desktop\changecheck_zhu_v3.0\changecheck_zhu\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\zml\Desktop\changecheck_zhu_v3.0\changecheck_zhu\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\zml\Desktop\changecheck_zhu_v3.0\changecheck_zhu\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\zml\Desktop\changecheck_zhu_v3.0\changecheck_zhu\DBUtility\obj\Debug\DBUtility.pdb
+F:\jiong_workspace\update_3change\project\changecheck\DBUtility\bin\Debug\DBUtility.dll
+F:\jiong_workspace\update_3change\project\changecheck\DBUtility\bin\Debug\DBUtility.pdb
+F:\jiong_workspace\update_3change\project\changecheck\DBUtility\obj\Debug\DBUtility.dll
+F:\jiong_workspace\update_3change\project\changecheck\DBUtility\obj\Debug\DBUtility.pdb
+F:\jiong_workspace\update_3change\project\changecheck\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+F:\jiong_workspace\markintent\project\markIntention\DBUtility\bin\Debug\DBUtility.dll
+F:\jiong_workspace\markintent\project\markIntention\DBUtility\bin\Debug\DBUtility.pdb
+F:\jiong_workspace\markintent\project\markIntention\DBUtility\obj\Debug\DBUtility.dll
+F:\jiong_workspace\markintent\project\markIntention\DBUtility\obj\Debug\DBUtility.pdb
+E:\VS2013 实例\project_v1.0\project\markIntention\DBUtility\bin\Debug\DBUtility.dll
+E:\VS2013 实例\project_v1.0\project\markIntention\DBUtility\bin\Debug\DBUtility.pdb
+E:\VS2013 实例\project_v1.0\project\markIntention\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\VS2013 实例\project_v1.0\project\markIntention\DBUtility\obj\Debug\DBUtility.dll
+E:\VS2013 实例\project_v1.0\project\markIntention\DBUtility\obj\Debug\DBUtility.pdb
+D:\Users\Desktop\Utility\DBUtility\bin\Debug\DBUtility.dll
+D:\Users\Desktop\Utility\DBUtility\bin\Debug\DBUtility.pdb
+D:\Users\Desktop\Utility\DBUtility\obj\Debug\DBUtility.dll
+D:\Users\Desktop\Utility\DBUtility\obj\Debug\DBUtility.pdb
+D:\Users\Desktop\Utility\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\DBUtility\bin\Debug\DBUtility.dll
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\DBUtility\bin\Debug\DBUtility.pdb
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\DBUtility\obj\Debug\DBUtility.dll
+D:\Users\Documents\Visual Studio 2013\Projects\GetMealTicket\DBUtility\obj\Debug\DBUtility.pdb
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\DBUtility\bin\Debug\DBUtility.dll
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\DBUtility\bin\Debug\DBUtility.pdb
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\DBUtility\obj\Debug\DBUtility.dll
+D:\Users\Desktop\移动项目\电子餐票项目\中立区发放餐票部分\GetMealTicket\DBUtility\obj\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\GetMealTicket\GetMealTicket\DBUtility\bin\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\GetMealTicket\GetMealTicket\DBUtility\bin\Debug\DBUtility.pdb
+C:\Users\Administrator\Desktop\GetMealTicket\GetMealTicket\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GetMealTicket\GetMealTicket\DBUtility\obj\Debug\DBUtility.dll
+C:\Users\Administrator\Desktop\GetMealTicket\GetMealTicket\DBUtility\obj\Debug\DBUtility.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\DBUtility\bin\Debug\DBUtility.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\DBUtility\bin\Debug\DBUtility.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\DBUtility\obj\Debug\DBUtility.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\DBUtility\obj\Debug\DBUtility.pdb
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\DBUtility\bin\Debug\QRCoder.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\DBUtility\bin\Debug\UnityEngine.dll
+D:\Documents\Visual Studio 2017\Projects\Ajax_Newtest\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\DBUtility.dll
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\DBUtility.pdb
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\QRCoder.dll
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\UnityEngine.dll
+E:\转移项目\Ajax_Newtest\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache
+E:\转移项目\Ajax_Newtest\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+E:\转移项目\Ajax_Newtest\DBUtility\obj\Debug\DBUtility.csproj.CopyComplete
+E:\转移项目\Ajax_Newtest\DBUtility\obj\Debug\DBUtility.dll
+E:\转移项目\Ajax_Newtest\DBUtility\obj\Debug\DBUtility.pdb
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\NPOI.dll
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\NPOI.OOXML.dll
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\NPOI.OpenXml4Net.dll
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\转移项目\Ajax_Newtest\DBUtility\bin\Debug\NPOI.xml

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DataStudentsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <!--生成过程中发现错误:
+警告 6013: 表/视图“DataStudents.dbo.Table_2”未定义主键，并且无法推断有效的主键。已排除了此表/视图。若要使用实体，将需要检查您的架构、添加正确的键并取消对实体的注释。
+        <EntityType Name="Table_2">
+          <Property Name="name" Type="nvarchar" MaxLength="50" />
+          <Property Name="password" Type="nvarchar" MaxLength="50" />
+          <Property Name="year" Type="nchar" MaxLength="10" />
+          <Property Name="sex" Type="nchar" MaxLength="10" />
+        </EntityType>-->
+  <EntityType Name="Table_test">
+    <Key>
+      <PropertyRef Name="name" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Password" Type="int" Nullable="false" />
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="year" Type="int" />
+    <Property Name="sex" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="Table_yan">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="contend" Type="varchar(max)" Nullable="false" />
+    <Property Name="name" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="time" Type="varchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserInfo">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="UserTset">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="DataStudentsModelStoreContainer">
+    <EntitySet Name="Table_test" EntityType="Self.Table_test" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Table_yan" EntityType="Self.Table_yan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserInfo" EntityType="Self.UserInfo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserTset" EntityType="Self.UserTset" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
